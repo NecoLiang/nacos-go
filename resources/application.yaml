@@ -1,0 +1,8 @@
+go:
+  nacos:
+    server_ip:
+    server_port: 8848
+    namespace:
+  service:
+    name: "my-gonacos"
+    port: 8080
